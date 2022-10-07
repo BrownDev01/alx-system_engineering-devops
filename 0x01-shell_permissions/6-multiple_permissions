@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+ax hello
+chmod 754 hello
